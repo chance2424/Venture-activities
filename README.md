@@ -6,7 +6,7 @@ Technologies
 This program was created using Python, and Jupyter Notebook
 
 Installation Guide
-git clone https://github.com/chance2424/Business_loan_qualifier_app.git
+git clone https://github.com/chance2424/Venture-activities.git
 
 Contributors
 Starter code was provided by UC Berkeley and modifications were done by Chance Dion Griffin
