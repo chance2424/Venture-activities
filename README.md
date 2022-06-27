@@ -1,12 +1,12 @@
 # Venture-Activities
-Model that predicts whether applicants will be successful if funded by Alphabet Soup
+Model that predicts whether applicants will be successful if funded by Alphabet Soup.
 
 
 
 ---
 
 ## Technologies
-This program was created using Python, and Jupyter Notebook
+This program was created using Python, and Jupyter Notebook.
 
 
 ---
@@ -19,7 +19,7 @@ git clone https://github.com/chance2424/Venture-activities.git
 
 ## Contributors
 
-Starter code was provided by UC Berkeley and modifications were done by Chance Dion Griffin
+Starter code was provided by UC Berkeley and modifications were done by Chance Dion Griffin.
 
 ---
 
